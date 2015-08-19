@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test sn="3">
+    <mytext>
+        <record>
+            <autoid>1</autoid>
+            <field>value</field>
+        </record>
+    <record>
+        <autoid>2</autoid>
+        <field1>value1</field1>
+    </record>
+    </mytext>
+<mytext1>
+    <record>
+        <autoid>3</autoid>
+        <field>value</field>
+    </record>
+</mytext1>
+</test>
